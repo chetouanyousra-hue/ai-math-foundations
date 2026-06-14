@@ -1,5 +1,4 @@
-# ai-math-foundations
-Fondements mathématiques pour l'IA - calcul différentiel, optimisation
+
 # 📐 Calcul Différentiel pour l'IA — Gradient & Hessienne
 
 Ce TP explore les fondements mathématiques de l'optimisation utilisés en Machine Learning : gradient, matrice Hessienne, points critiques, et leur classification (minimum/maximum/point selle).
